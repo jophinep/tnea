@@ -1,0 +1,96 @@
+AD Artificial Intelligence and Data Science
+AE Aeronautical Engineering
+AG Agriculture Engineering
+AI Agricultural and Irrigation Engineering (SS)
+AM Computer Science and Engineering (AI and Machine Learning)
+AO Aerospace Engineering
+AP Apparel Technology (SS)
+AR Architecture
+AS Automobile Engineering (SS)
+AU Automobile Engineering
+BD Computer Science and Engineering (Big Data Analytics)
+BM Bio- Medical Engineering
+BR Architecture (SS)
+BS Bio Technology (SS)
+BT Bio Technology
+BY Bio- Medical Engineering (SS)
+CA Civil and Structural Engineering
+CB Computer Science and Business System
+CC Chemical and Electro Chemical Engineering (SS)
+CE Civil Engineering
+CH Chemical Engineering
+CL Chemical Engineering (SS)
+CM Computer Science and Engineering (SS)
+CN Civil Engineering (SS)
+CO Computer and Communication Engineering
+CP Civil Engg. and Planning
+CR Ceramic Technology (SS)
+CS Computer Science and Engineering
+CT Computer Technology
+CW Computer Science and Business System(SS)
+CY Cyber Security
+EC Electronics and Communication Engineering
+EE Electrical and Electronics Engineering
+EI Electronics and Instrumentation Engineering
+EM Electronics and Communication Engg. (SS)
+EN Environmental Engg.
+ES Electrical and Electronics (Sandwich) (SS)
+ET Electronics and Telecommunication Engg.
+EX Electronics and Instrumentation Engg. (SS)
+EY Elec. And Electronics Engg (SS)
+FD Food Technology
+FS Food Technology (SS)
+FT Fashion Technology
+FY Fashion Technology (SS)
+GI Geo-Informatics
+HT Handloom and Textile Technology
+IB Industrial Bio-Technology
+IC Instrumentation and Control Engineering
+IE Industrial Engineering
+IG Information Science and Engineering
+IM Information Tech. (SS)
+IN Industrial Engineering and Management
+IS Industrial Bio-Tech. (SS)
+IT Information Technology
+IY Instrumentation and Control Engineering (SS)
+LE Leather Technology
+MA Material Science and Engineering (SS)
+MC/MZ Mechatronics
+MD Medical Electronics Engg.
+ME Mechanical Engineering
+MF Mechanical (Manufacturing)
+MF Mechanical Engg. (SS)
+MG Mechatronics (SS)
+MH Mechanical Engineering (Sandwich)
+MI Mining Engineering
+MN Manufacturing Engineering
+MO Mechanical and Mechatronics Engineering(Additive Manufacturing)
+MR Marine Engineering
+MS Mechanical Engineering (Sandwich) (SS)
+MT Metallurgical Engineering
+MU Mechanical and Automation Engineering
+MY Metallurgical Engg. (SS)
+NS Nano Science and Technology
+PA Plastic Technology
+PC Petro Chemical Technology
+PD Petrochemical Engineering
+PE Petroleum Engineering
+PH Pharmaceutical Technology
+PL Polymer Technology
+PM Pharmaceutical Tech (SS)
+PN Production Engineering (SS)
+PP Petroleum Engineering and Technology (SS)
+PR Production Engineering
+PS Production Engineering (Sandwich) (SS)
+PT Printing and Packaging Technology
+RA Robotics and Automation (SS)
+RM Robotics and Automation
+RP Rubber and Plastic Tech.
+SB Computer Science and Engineering
+(Internet of Things and Cyber Security including Block Chain Technology)
+TC Textile Chemistry
+TS Computer science and Technology
+TT Textile Technology (SS)
+TX Textile Technology
+XC Civil Engineering (Tamil Medium)
+XM Mechanical Engineering (Tamil Medium)
