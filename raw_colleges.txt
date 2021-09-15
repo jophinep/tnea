@@ -444,8 +444,7 @@ Min Transport
 Charges
 Max Transport
 Charges
-1014 University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram
-District 604001
+1014 University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram District 604001
 7
 Name of the
 Principal/Dean
@@ -631,8 +630,7 @@ Charges
 Max Transport
 Charges
 35000
-1101 Aalim Muhammed Salegh College of Engineering, Muthapudupet, Avadi IAF, Chennai
-600055
+1101 Aalim Muhammed Salegh College of Engineering, Muthapudupet, Avadi IAF, Chennai 600055
 10
 Name of the
 Principal/Dean
@@ -1142,8 +1140,7 @@ Charges
 Max Transport
 Charges
 10000
-1116 Sri Venkateswara College of Engineering and Technology, Thirupachur, Thiruvallur
-District 631203
+1116 Sri Venkateswara College of Engineering and Technology, Thirupachur, Thiruvallur District 631203
 18
 Name of the
 Principal/Dean
@@ -1274,8 +1271,7 @@ Charges
 Max Transport
 Charges
 38880
-1120 Velammal Engineering College (Autonomous), Ambattur-Redhills Road, Chennai
-600066
+1120 Velammal Engineering College (Autonomous), Ambattur-Redhills Road, Chennai 600066
 20
 Name of the
 Principal/Dean
@@ -1519,8 +1515,7 @@ Charges
 Max Transport
 Charges
 45000
-1125 P M R Engineering College, Adayalampattu, Maduravoyal , Vanagaram, Chennai
-600095
+1125 P M R Engineering College, Adayalampattu, Maduravoyal , Vanagaram, Chennai 600095
 24
 Name of the
 Principal/Dean
@@ -1827,8 +1822,7 @@ Charges
 Max Transport
 Charges
 42000
-1132 Rajalakshmi School of Architecture, Thandalam, Sriperumpudur Taluk, Kancheepuram
-District 602105
+1132 Rajalakshmi School of Architecture, Thandalam, Sriperumpudur Taluk, Kancheepuram District 602105
 30
 Name of the
 Principal/Dean
@@ -1888,8 +1882,7 @@ Charges
 Max Transport
 Charges
 20000
-1133 Annai Veilankannis College of Engineering, Gandhi Road, Nedungundram, Chennai
-600048
+1133 Annai Veilankannis College of Engineering, Gandhi Road, Nedungundram, Chennai 600048
 31
 Name of the
 Principal/Dean
@@ -2366,7 +2359,7 @@ Charges
 Max Transport
 Charges
 27000
-1147 MMES ACADEMY OF ARCHITECTURE, VELLORE
+1147 MMES ACADEMY OF ARCHITECTURE, VELLORE, Ranipet District 632509
 40
 Name of the
 Principal/Dean
@@ -3056,8 +3049,7 @@ Charges
 Max Transport
 Charges
 25000
-1212 Rajiv Gandhi College of Engineering, Nemili, Sriperumpudur Taluk, Kancheepuram
-District 602105
+1212 Rajiv Gandhi College of Engineering, Nemili, Sriperumpudur Taluk, Kancheepuram District 602105
 52
 Name of the
 Principal/Dean
@@ -3197,8 +3189,7 @@ Charges
 Max Transport
 Charges
 40000
-1217 Sree Sastha Institute of Engineering and Technology, Chembarambakkam, Chennai
-600123
+1217 Sree Sastha Institute of Engineering and Technology, Chembarambakkam, Chennai 600123
 54
 Name of the
 Principal/Dean
@@ -3392,8 +3383,7 @@ Charges
 Max Transport
 Charges
 24000
-1221 Jaya College of Engineering and Technology, Parivakkam, Poonamallee, Chennai
-600056
+1221 Jaya College of Engineering and Technology, Parivakkam, Poonamallee, Chennai 600056
 57
 Name of the
 Principal/Dean
@@ -3458,8 +3448,7 @@ Charges
 Max Transport
 Charges
 23000
-1222 P B College of Engineering, Irungkattukottai, Sriperumpudur Taluk, Kancheepuram
-District 602105
+1222 P B College of Engineering, Irungkattukottai, Sriperumpudur Taluk, Kancheepuram District 602105
 58
 Name of the
 Principal/Dean
@@ -3708,8 +3697,7 @@ Charges
 Max Transport
 Charges
 25000
-1229 Indira Institute of Engineering and Technology, VGR Gardens, Pandur, Thiruvallur
-District 631203
+1229 Indira Institute of Engineering and Technology, VGR Gardens, Pandur, Thiruvallur District 631203
 62
 Name of the
 Principal/Dean
@@ -4784,7 +4772,7 @@ Max Transport
 Charges
 28000
 1313 SMK Fomra Institute of Technology,Fomra Nagar, OMR,(IT Express
-Highway),Kelambakkam,Chennai- 603103
+Highway),Kelambakkam,Chennai - 603103
 80
 Name of the
 Principal/Dean
@@ -5176,8 +5164,7 @@ Min Transport
 Charges
 Max Transport
 Charges
-1321 Central Institute of Plastics Engineering and Technology (CIPET), Guindy, Chennai
-600032
+1321 Central Institute of Plastics Engineering and Technology (CIPET), Guindy, Chennai 600032
 86
 Name of the
 Principal/Dean
@@ -5874,8 +5861,7 @@ Charges
 Max Transport
 Charges
 23000
-1407 G K M College of Engineering and Technology, Alappakkam-Mappedu Road, Chennai
-600063
+1407 G K M College of Engineering and Technology, Alappakkam-Mappedu Road, Chennai 600063
 97
 Name of the
 Principal/Dean
@@ -6628,7 +6614,7 @@ Charges
 Max Transport
 Charges
 35000
-1423 Asan Memorial College of Engineering Technology
+1423 Asan Memorial College of Engineering Technology, Chengalpattu District 603105
 110
 Name of the
 Principal/Dean
@@ -7004,8 +6990,7 @@ Charges
 Max Transport
 Charges
 42000
-1432 Rajalakshmi Institute of Technology, Irulapalayam, Kuthampakkam Post, Thiruvallur
-District 602107
+1432 Rajalakshmi Institute of Technology, Irulapalayam, Kuthampakkam Post, Thiruvallur District 602107
 116
 Name of the
 Principal/Dean
@@ -7191,8 +7176,7 @@ Charges
 Max Transport
 Charges
 35000
-1436 A R Engineering College, Vadakuchipalayam, Kappiyampuliyur Post, Villupuram
-District 605601
+1436 A R Engineering College, Vadakuchipalayam, Kappiyampuliyur Post, Villupuram District 605601
 119
 Name of the
 Principal/Dean
@@ -7558,8 +7542,7 @@ Charges
 Max Transport
 Charges
 18000
-1445 Sri Rangapoopathi College of Engineering, Alampoondi Village, Gingee, Villupuram
-District 604151
+1445 Sri Rangapoopathi College of Engineering, Alampoondi Village, Gingee, Villupuram District 604151
 125
 Name of the
 Principal/Dean
@@ -7933,8 +7916,7 @@ Charges
 Max Transport
 Charges
 5000
-1503 Arulmigu Meenakshi Amman College of Engineering, Vadamavandal,Thiruvannamalai
-District 604410
+1503 Arulmigu Meenakshi Amman College of Engineering, Vadamavandal,Thiruvannamalai District 604410
 131
 Name of the
 Principal/Dean
@@ -8565,8 +8547,7 @@ Charges
 Max Transport
 Charges
 13000
-1518 Thiruvalluvar College of Engineering and Technology, Vandavasi, Thiruvannamalai
-District 604505
+1518 Thiruvalluvar College of Engineering and Technology, Vandavasi, Thiruvannamalai District 604505
 142
 Name of the
 Principal/Dean
@@ -8628,7 +8609,7 @@ Charges
 Max Transport
 Charges
 20000
-1519 Bharathidasan Engineering College, Nattrampalli Post, Tiruppattur District 635854
+1519 Bharathidasan Engineering College, Nattrampalli Post, Thiruppathur District 635854
 143
 Name of the
 Principal/Dean
@@ -8818,15 +8799,14 @@ Charges
 Max Transport
 Charges
 15000
-1524 Annamalaiar College of Engineering, Modaiyur Village, Polur Taluk, Thiruvannamalai
-District 606902
+1524 Annamalaiar College of Engineering, Modaiyur Village, Polur Taluk, Thiruvannamalai District 606902
 146
 Name of the
 Principal/Dean
 Dr.M.PRABHAKARAN
 Address SALEM MAIN ROAD, ADIYUR,
-TIRUPATTUR, TIRUPATTUR DIST
-Taluk TIRUPATTUR
+Thiruppathur, Thiruppathur DIST
+Taluk Thiruppathur
 District Thirupattur
 Pincode 635601
 Phone/Fax 4179225900
@@ -8835,11 +8815,11 @@ Website www.podhigaitech.ac.in
 Antiphone 4179225900
 Bank A/c No. 62513070002858
 Bank Name CANARA BANK,
-TIRUPATTUR
+Thiruppathur
 Distance in KM from
 Dist.HQ
 3
-Nearest Railway Station TIRUPATTUR
+Nearest Railway Station Thiruppathur
 Distance in KM from
 Nearest Railway Station
 3
@@ -8882,7 +8862,7 @@ Max Transport
 Charges
 10000
 1525 Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post,
-Tirupattur Taluk, Tiruppattur District 635601
+Thiruppathur Taluk, Thiruppathur District 635601
 147
 Name of the
 Principal/Dean
@@ -9199,8 +9179,7 @@ Min Transport
 Charges
 Max Transport
 Charges
-2005 Government College of Technology (Autonomous), Thadagam Road, Coimbatore
-District 641013
+2005 Government College of Technology (Autonomous), Thadagam Road, Coimbatore District 641013
 153
 Name of the
 Principal/Dean
@@ -9346,8 +9325,7 @@ Min Transport
 Charges
 Max Transport
 Charges
-2007 Coimbatore Institute of Technology (Autonomous), Civil Aerodrome Post, Coimbatore
-District 641014
+2007 Coimbatore Institute of Technology (Autonomous), Civil Aerodrome Post, Coimbatore District 641014
 155
 Name of the
 Principal/Dean
@@ -9472,8 +9450,7 @@ Charges
 Max Transport
 Charges
 20000
-2302 Sri Shanmugha College of Engineering and Technology, Morur Bit II Village, Salem
-District 637302
+2302 Sri Shanmugha College of Engineering and Technology, Morur Bit II Village, Salem District 637302
 157
 Name of the
 Principal/Dean
@@ -10034,8 +10011,7 @@ Min Transport
 Charges
 Max Transport
 Charges
-2343 Indian Institute of Handloom Technology, Foulke's Compound, Thillai Nagar, Salem
-District 636001
+2343 Indian Institute of Handloom Technology, Foulke's Compound, Thillai Nagar, Salem District 636001
 166
 Name of the
 Principal/Dean
@@ -10720,8 +10696,7 @@ Charges
 Max Transport
 Charges
 12000
-2360 Suguna College of Engineering, Kalappatti Road, Civil Aerodrome Post, Coimbatore
-District 641014
+2360 Suguna College of Engineering, Kalappatti Road, Civil Aerodrome Post, Coimbatore District 641014
 178
 Name of the
 Principal/Dean
@@ -10778,8 +10753,7 @@ Charges
 Max Transport
 Charges
 40000
-2361 Sasi Creative School of Archiecture, Pollachi Main Road, Myleripalayam, Coimbatore
-District 641032
+2361 Sasi Creative School of Archiecture, Pollachi Main Road, Myleripalayam, Coimbatore District 641032
 179
 Name of the
 Principal/Dean
@@ -10894,8 +10868,7 @@ Charges
 Max Transport
 Charges
 12000
-2365 Nehru School of Architecture, 451-D, Palakkad Main Road, Kuniamuthur, Coimbatore
-District 641108
+2365 Nehru School of Architecture, 451-D, Palakkad Main Road, Kuniamuthur, Coimbatore District 641108
 181
 Name of the
 Principal/Dean
@@ -12371,8 +12344,7 @@ Charges
 Max Transport
 Charges
 12500
-2621 Er. Perumal Manimekalai College of Engineering, Near Koneripalli, Hosur, Krishnagiri
-District 635117
+2621 Er. Perumal Manimekalai College of Engineering, Near Koneripalli, Hosur, Krishnagiri District 635117
 204
 Name of the
 Principal/Dean
@@ -12949,8 +12921,7 @@ Charges
 Max Transport
 Charges
 14000
-2632 Mahendra Institute of Technology, Mahendhirapuri, Mallasamudram, Namakkal
-District 637503
+2632 Mahendra Institute of Technology, Mahendhirapuri, Mallasamudram, Namakkal District 637503
 213
 Name of the
 Principal/Dean
@@ -13326,8 +13297,7 @@ Charges
 Max Transport
 Charges
 25000
-2639 Narasus Sarathy Institute of Technology, Poosaripatty Village, Omalur Taluk, Salem
-District 636305
+2639 Narasus Sarathy Institute of Technology, Poosaripatty Village, Omalur Taluk, Salem District 636305
 219
 Name of the
 Principal/Dean
@@ -13574,8 +13544,7 @@ Charges
 Max Transport
 Charges
 18000
-2643 Bharathiyar Institute of Engineering for Women, Deviayakurichi, Attur Taluk, Salem
-District 636112
+2643 Bharathiyar Institute of Engineering for Women, Deviayakurichi, Attur Taluk, Salem District 636112
 223
 Name of the
 Principal/Dean
@@ -13635,8 +13604,7 @@ Charges
 Max Transport
 Charges
 17000
-2646 Tagore Institute of Engineering and Technology, Deviyakurichi, Attur Taluk, Salem
-District 636112
+2646 Tagore Institute of Engineering and Technology, Deviyakurichi, Attur Taluk, Salem District 636112
 224
 Name of the
 Principal/Dean
@@ -13761,8 +13729,7 @@ Charges
 Max Transport
 Charges
 2500
-2648 Annaporna Engineering College, Sankari Main Road, NH-47, Periaseeragapadi, Salem
-District 636308
+2648 Annaporna Engineering College, Sankari Main Road, NH-47, Periaseeragapadi, Salem District 636308
 226
 Name of the
 Principal/Dean
@@ -13829,8 +13796,8 @@ Name of the
 Principal/Dean
 Dr. M. Vijayakumar
 Address Dharapuram Road, Avinashipalayam,
-Tirupur
-Taluk Tirupur
+Tiruppur
+Taluk Tiruppur
 District Tiruppur
 Pincode 638660
 Phone/Fax 9047098314
@@ -13843,7 +13810,7 @@ Institutions
 Distance in KM from
 Dist.HQ
 18
-Nearest Railway Station Tirupur
+Nearest Railway Station Tiruppur
 Distance in KM from
 Nearest Railway Station
 20
@@ -13887,8 +13854,7 @@ Charges
 Max Transport
 Charges
 15000
-2651 Jai Shriram Engineering College, Dharapuram Road, Avinashi Palayam, Tiruppur
-District 638660
+2651 Jai Shriram Engineering College, Dharapuram Road, Avinashi Palayam, Tiruppur District 638660
 228
 Name of the
 Principal/Dean
@@ -13950,8 +13916,7 @@ Charges
 Max Transport
 Charges
 12000
-2652 Al-Ameen Engineering College, Karundevan Palayam, Nanjai Uthukuli Post, Erode
-District 638104
+2652 Al-Ameen Engineering College, Karundevan Palayam, Nanjai Uthukuli Post, Erode District 638104
 229
 Name of the
 Principal/Dean
@@ -14024,7 +13989,7 @@ Dr.S.GOPALAKRISHNAN
 Address BUILDERS ENGINEERING COLLEGE,
 EBET KNOWLEDGE PARK, ERODE
 ROAD, NATHAKADAIYUR,
-KANGAYAM, TIRUPUR DISTRICT
+KANGAYAM, Tiruppur DISTRICT
 Taluk KANGAYAM
 District Tiruppur
 Pincode 638108
@@ -14080,8 +14045,7 @@ Charges
 Max Transport
 Charges
 21700
-2656 Builders Engineering College,Erode Rode,Nathakadiyur, Kangeyam Taluk, Tiruppur
-District 638108
+2656 Builders Engineering College,Erode Rode,Nathakadiyur, Kangeyam Taluk, Tiruppur District 638108
 231
 Name of the
 Principal/Dean
@@ -14652,8 +14616,7 @@ Charges
 Max Transport
 Charges
 37200
-2702 Bannari Amman Institute of Technology (Autonomous), Sathyamanagalam, Erode
-District 638401
+2702 Bannari Amman Institute of Technology (Autonomous), Sathyamanagalam, Erode District 638401
 240
 Name of the
 Principal/Dean
@@ -14725,7 +14688,7 @@ Dr. J. Joshua Gnana Sekaran
 Address CSI College of Engineering, Ketti, The
 Nilgiris - 643215.
 Taluk Coonoor
-District The Nilgiris
+District Nilgiris
 Pincode 643215
 Phone/Fax 0423-2517581 - 83, 0423-2517474
 Email-Id principal@csice.edu.in
@@ -14779,7 +14742,7 @@ Charges
 Max Transport
 Charges
 22000
-2705 C S I College of Engineering, Ketti, The Nilgiris 643215
+2705 C S I College of Engineering, Ketti, Nilgiris 643215
 242
 Name of the
 Principal/Dean
@@ -15120,8 +15083,7 @@ Charges
 Max Transport
 Charges
 35000
-2710 Karpagam College of Engineering (Autonomous), Othakkalmandapam, Coimbatore
-District 641032
+2710 Karpagam College of Engineering (Autonomous), Othakkalmandapam, Coimbatore District 641032
 247
 Name of the
 Principal/Dean
@@ -15663,8 +15625,7 @@ Charges
 Max Transport
 Charges
 36200
-2719 Sri Ramakrishna Engineering College (Autonomous), Vattamalaipalayam, Coimbatore
-District 641022
+2719 Sri Ramakrishna Engineering College (Autonomous), Vattamalaipalayam, Coimbatore District 641022
 255
 Name of the
 Principal/Dean
@@ -15683,7 +15644,7 @@ Bank Name CANARA BANK
 Distance in KM from
 Dist.HQ
 30
-Nearest Railway Station Tirupur
+Nearest Railway Station Tiruppur
 Distance in KM from
 Nearest Railway Station
 20
@@ -15790,8 +15751,7 @@ Charges
 Max Transport
 Charges
 40000
-2722 Sri Krishna College of Technology (Autonomous), Kovaipudur Post, Coimbatore
-District 641042
+2722 Sri Krishna College of Technology (Autonomous), Kovaipudur Post, Coimbatore District 641042
 257
 Name of the
 Principal/Dean
@@ -15917,8 +15877,7 @@ Charges
 Max Transport
 Charges
 48000
-2725 Sri Ramakrishna Institute of Technology (Autonomous), Pachapalayam, Coimbatore
-District 641010
+2725 Sri Ramakrishna Institute of Technology (Autonomous), Pachapalayam, Coimbatore District 641010
 259
 Name of the
 Principal/Dean
@@ -16058,7 +16017,7 @@ Max Transport
 Charges
 30000
 2727 Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass,
-Venkitapuram Post, Comibatore District 641062
+Venkitapuram Post, Coimbatore District 641062
 261
 Name of the
 Principal/Dean
@@ -16242,15 +16201,14 @@ Charges
 Max Transport
 Charges
 20000
-2731 R V S College of Engineering and Technology, Kannampalayam, Sulur, Coimbatore
-District 641402
+2731 R V S College of Engineering and Technology, Kannampalayam, Sulur, Coimbatore District 641402
 264
 265
 Name of the
 Principal/Dean
 Dr. S.G. Murshidha Taj
 Address Angel Nagar, Dharapuram Road, P.K.
-Palayam Post, Tirupur-641605
+Palayam Post, Tiruppur-641605
 Taluk Ugayanur
 District Tiruppur
 Pincode 641665
@@ -16263,7 +16221,7 @@ Bank Name Karur Vysya Bank
 Distance in KM from
 Dist.HQ
 12
-Nearest Railway Station Tirupur
+Nearest Railway Station Tiruppur
 Distance in KM from
 Nearest Railway Station
 13
@@ -16306,8 +16264,7 @@ Charges
 Max Transport
 Charges
 15000
-2733 Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tirupur
-District 641665
+2733 Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tiruppur District 641665
 266
 Name of the
 Principal/Dean
@@ -16376,8 +16333,7 @@ Charges
 Max Transport
 Charges
 32000
-2734 SNS College of Engineering, Sathy Main Road, Kurumbapalayam Post, Coimbatore
-District 641107 (Autonomous)
+2734 SNS College of Engineering, Sathy Main Road, Kurumbapalayam Post, Coimbatore District 641107 (Autonomous)
 267
 Name of the
 Principal/Dean
@@ -17525,9 +17481,9 @@ Name of the
 Principal/Dean
 N S SARAVANAN
 Address 5/635, Perar,T Mynala Village &
-Post, Ooty, The Nilgiris - 643002
+Post, Ooty, Nilgiris - 643002
 Taluk Ooty
-District The Nilgiris
+District Nilgiris
 Pincode 643002
 Phone/Fax 423225970
 Email-Id ootyarchitecture@gmail.com
@@ -17576,7 +17532,7 @@ Charges
 Max Transport
 Charges
 30000
-2759 McGans Ooty School Of Architecture, Summer House Road, Ooty, The Nilgiris 643001
+2759 McGans Ooty School Of Architecture, Summer House Road, Ooty, Nilgiris 643001
 286
 Name of the
 Principal/Dean
@@ -17637,8 +17593,7 @@ Charges
 Max Transport
 Charges
 22000
-2761 United Institute of Technology, Gadalore Village, Perianaickenpalayam, Coimbatore
-District 641020
+2761 United Institute of Technology, Gadalore Village, Perianaickenpalayam, Coimbatore District 641020
 287
 Name of the
 Principal/Dean
@@ -18080,7 +18035,7 @@ Charges
 Max Transport
 Charges
 20000
-2770 Study World College of Engineering, Coimbatore
+2770 Study World College of Engineering, Coimbatore, Coimbatore District 641105
 294
 Name of the
 Principal/Dean
@@ -18265,8 +18220,7 @@ Charges
 Max Transport
 Charges
 15000
-2779 Ranganathan Architecture College, Viraliyur Post, Thondamuthur Via, Coimbatore
-District 641109
+2779 Ranganathan Architecture College, Viraliyur Post, Thondamuthur Via, Coimbatore District 641109
 297
 Name of the
 Principal/Dean
@@ -18654,8 +18608,8 @@ Name of the
 Principal/Dean
 Ar. Snehalata Dash
 Address Koohur Main Road, Kilvelur
-Taluk Nagapattinam
-District Nagapattinam
+Taluk Nagappattinam
+District Nagappattinam
 Pincode 611104
 Phone/Fax 4366276177
 Email-Id primearch2010@gmail.com
@@ -18704,8 +18658,7 @@ Charges
 Max Transport
 Charges
 27000
-3446 Prime College of Architecture and Planning, Main Road, Kilvelur, Nagapattinam
-District 611104
+3446 Prime College of Architecture and Planning, Main Road, Kilvelur, Nagappattinam District 611104
 305
 Name of the
 Principal/Dean
@@ -18959,7 +18912,7 @@ Dr.S.MALIK RAJ
 Address Arifa Knowledge Village, Esanoor,
 Keelaiyur Post,
 Taluk Thirukkuvalai
-District Nagapattinam
+District Nagappattinam
 Pincode 611103
 Phone/Fax
 Email-Id arifaprincipal@gmail.com
@@ -19012,7 +18965,7 @@ Max Transport
 Charges
 15000
 3461 Arifa Institute of Techonology, Esanoor, Keelaiyur Post, Thirukkuvalai Taluk,
-Nagapattinam District 611103
+Nagappattinam District 611103
 310
 311
 Name of the
@@ -19323,9 +19276,9 @@ Name of the
 Principal/Dean
 Dr.G.GIFTSON SAMUEL
 Address Vailankanni Road, Pappakovil Village,
-Andanapettai Post, Nagapattinam.
-Taluk Nagapattinam
-District Nagapattinam
+Andanapettai Post, Nagappattinam.
+Taluk Nagappattinam
+District Nagappattinam
 Pincode 611102
 Phone/Fax 4365220262
 Email-Id principalsincet@gmail.com
@@ -19869,8 +19822,7 @@ Charges
 Max Transport
 Charges
 12000
-3802 Shri Angalamman College of Engineering and Technology Siruganoor, Tiruchirappalli
-District 621105
+3802 Shri Angalamman College of Engineering and Technology Siruganoor, Tiruchirappalli District 621105
 325
 Name of the
 Principal/Dean
@@ -20077,9 +20029,9 @@ Name of the
 Principal/Dean
 Dr.S.RAMABALAN
 Address Old Nagore Road, Thethi Village,
-Nagore, Nagapattinam.
-Taluk Nagapattinam
-District Nagapattinam
+Nagore, Nagappattinam.
+Taluk Nagappattinam
+District Nagappattinam
 Pincode 611002
 Phone/Fax 04365 251112
 Email-Id principal.egspec@gmail.com
@@ -20135,7 +20087,7 @@ Charges
 Max Transport
 Charges
 12000
-3806 E G S Pillay Engineering College (Autonomous), Nagapattinam District 611002
+3806 E G S Pillay Engineering College (Autonomous), Nagappattinam District 611002
 329
 Name of the
 Principal/Dean
@@ -20198,7 +20150,7 @@ Charges
 Max Transport
 Charges
 20000
-3807 J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli
+3807 J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli
 District 620009
 330
 Name of the
@@ -20262,8 +20214,7 @@ Charges
 Max Transport
 Charges
 18800
-3808 Jayaram College of Engineering and Technology , Pagalavadi Post, Tiruchirappalli
-District 621014
+3808 Jayaram College of Engineering and Technology , Pagalavadi Post, Tiruchirappalli District 621014
 331
 Name of the
 Principal/Dean
@@ -22033,9 +21984,9 @@ Name of the
 Principal/Dean
 Dr. N.Senthilvelan., M.Tech., Ph.D.,
 Address Sembodai - 614809, Vedaraniam
-T.K., Nagapattinam D.T.,
+T.K., Nagappattinam D.T.,
 Taluk Vedaraniam
-District Nagapattinam
+District Nagappattinam
 Pincode 614809
 Phone/Fax 04369-276381 / 04369-276481
 Email-Id 859srvec@gmail.com
@@ -22716,8 +22667,7 @@ Charges
 Max Transport
 Charges
 30600
-4671 Sigma College of Architecture, Moododu, Anducode Post, Marthandam, Kanyakumari
-District 629168
+4671 Sigma College of Architecture, Moododu, Anducode Post, Marthandam, Kanyakumari District 629168
 373
 Name of the
 Principal/Dean
@@ -22779,8 +22729,7 @@ Charges
 Max Transport
 Charges
 13000
-4672 Stella Marys College of Engineering, Arunthengan Vilai, Azhikal Post, Kanyakumari
-District 629202
+4672 Stella Marys College of Engineering, Arunthengan Vilai, Azhikal Post, Kanyakumari District 629202
 374
 Name of the
 Principal/Dean
@@ -23152,8 +23101,7 @@ Charges
 Max Transport
 Charges
 15000
-4686 Good Shepherd College of Engineering and Technology, Maruthamparai, Kanyakumari
-District 629101
+4686 Good Shepherd College of Engineering and Technology, Maruthamparai, Kanyakumari District 629101
 381
 Name of the
 Principal/Dean
@@ -24597,7 +24545,7 @@ Max Transport
 Charges
 10374
 4956 Jayamatha Engineering College, Thirurajapuram, Muppandal, Aralvaimozhi,
-Kannyakumari Dt - 629301
+Kanyakumari Dt - 629301
 404
 Name of the
 Principal/Dean
@@ -25420,8 +25368,7 @@ Charges
 Max Transport
 Charges
 30000
-4971 St. Xavier Catholic College of Engineering, Chunkankadai, Nagercoil, Kanyakumari
-District 629807
+4971 St. Xavier Catholic College of Engineering, Chunkankadai, Nagercoil, Kanyakumari District 629807
 417
 Name of the
 Principal/Dean
@@ -25482,8 +25429,7 @@ Charges
 Max Transport
 Charges
 48000
-4972 Amrita College of Engineering and Technology, Erachakulam Post, Kanyakumari
-District 629902
+4972 Amrita College of Engineering and Technology, Erachakulam Post, Kanyakumari District 629902
 418
 Name of the
 Principal/Dean
@@ -25667,8 +25613,7 @@ Charges
 Max Transport
 Charges
 28000
-4976 Infant Jesus College of Engineering, Thoothukudi Highway (NH7/A), Thoothukudi
-District 628851
+4976 Infant Jesus College of Engineering, Thoothukudi Highway (NH7/A), Thoothukudi District 628851
 421
 Name of the
 Principal/Dean
@@ -26043,8 +25988,7 @@ Charges
 Max Transport
 Charges
 14000
-4982 Vins Christian College of Engineering, Chunkankadai Post, Nagercoil, Kanyakumari
-District 629807
+4982 Vins Christian College of Engineering, Chunkankadai Post, Nagercoil, Kanyakumari District 629807
 427
 Name of the
 Principal/Dean
@@ -26744,8 +26688,7 @@ Charges
 Max Transport
 Charges
 24000
-5008 Thiagarajar College of Engineering (Autonomous), Tirupparankundram, Madurai
-District 625015
+5008 Thiagarajar College of Engineering (Autonomous), Tirupparankundram, Madurai District 625015
 438
 Name of the
 Principal/Dean

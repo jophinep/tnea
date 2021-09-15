@@ -79,6 +79,7 @@ for i in range(len(colleges)):
             rank = franks[colleges[i][0]][j[0]]
         except KeyError:
             pass
+        rank["District"] = rank["con"].split(",")[-1].split()[0]
         new_ranks.append(rank)
 
 json.dump(new_ranks, open("new_ranks.json", "w"), indent=4)

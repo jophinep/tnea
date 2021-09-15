@@ -6677,7 +6677,7 @@
         "CS": {
             "_id": "60f790dab43831bb8d246315",
             "coc": "1402",
-            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakkurichi District 607204",
+            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakurichi District 607204",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 107178,
@@ -6691,7 +6691,7 @@
         "EC": {
             "_id": "60f790dab43831bb8d246316",
             "coc": "1402",
-            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakkurichi District 607204",
+            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakurichi District 607204",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 99768,
@@ -6705,7 +6705,7 @@
         "EE": {
             "_id": "60f790dab43831bb8d246317",
             "coc": "1402",
-            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakkurichi District 607204",
+            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakurichi District 607204",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 110761,
@@ -6719,7 +6719,7 @@
         "ME": {
             "_id": "60f790dab43831bb8d246318",
             "coc": "1402",
-            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakkurichi District 607204",
+            "con": "Annai Terasa College of Engineering, Thirunavalur, Kallakurichi District 607204",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 108050,
@@ -8067,7 +8067,7 @@
         "EC": {
             "_id": "60f790dab43831bb8d24636e",
             "coc": "1423",
-            "con": "Asan Memorial College of Engineering and Technology,Chengalpattu-603 001.",
+            "con": "Asan Memorial College of Engineering and Technology, Chengalpattu - 603 001.",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 65989,
@@ -9599,7 +9599,7 @@
         "CE": {
             "_id": "60f790dab43831bb8d2463e0",
             "coc": "1510",
-            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppattur District 635751",
+            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppathur District 635751",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 108640,
@@ -9613,7 +9613,7 @@
         "CS": {
             "_id": "60f790dab43831bb8d2463e1",
             "coc": "1510",
-            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppattur District 635751",
+            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppathur District 635751",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 69272,
@@ -9627,7 +9627,7 @@
         "EC": {
             "_id": "60f790dab43831bb8d2463e2",
             "coc": "1510",
-            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppattur District 635751",
+            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppathur District 635751",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 110162,
@@ -9641,7 +9641,7 @@
         "EE": {
             "_id": "60f790dab43831bb8d2463e3",
             "coc": "1510",
-            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppattur District 635751",
+            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppathur District 635751",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 109223,
@@ -9655,7 +9655,7 @@
         "ME": {
             "_id": "60f790dab43831bb8d2463e4",
             "coc": "1510",
-            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppattur District 635751",
+            "con": "Priyadarshini Engineering College, Vaniyambadi Post, Thiruppathur District 635751",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 107341,
@@ -10421,7 +10421,7 @@
         "EC": {
             "_id": "60f790dab43831bb8d24641b",
             "coc": "1525",
-            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Tirupattur District 635601",
+            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Thiruppathur District 635601",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 95564,
@@ -10435,7 +10435,7 @@
         "EE": {
             "_id": "60f790dab43831bb8d24641c",
             "coc": "1525",
-            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Tirupattur District 635601",
+            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Thiruppathur District 635601",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 110413,
@@ -10449,7 +10449,7 @@
         "CE": {
             "_id": "60f790dab43831bb8d246419",
             "coc": "1525",
-            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Tirupattur District 635601",
+            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Thiruppathur District 635601",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 98919,
@@ -10463,7 +10463,7 @@
         "CS": {
             "_id": "60f790dab43831bb8d24641a",
             "coc": "1525",
-            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Tirupattur District 635601",
+            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Thiruppathur District 635601",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 102482,
@@ -10477,7 +10477,7 @@
         "ME": {
             "_id": "60f790dab43831bb8d24641d",
             "coc": "1525",
-            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Tirupattur District 635601",
+            "con": "Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Thiruppathur District 635601",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 103769,
@@ -10525,7 +10525,7 @@
         "CS": {
             "_id": "60f790dab43831bb8d246420",
             "coc": "1605",
-            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakkurichi District 606201",
+            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakurichi District 606201",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 89722,
@@ -10539,7 +10539,7 @@
         "EC": {
             "_id": "60f790dab43831bb8d246421",
             "coc": "1605",
-            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakkurichi District 606201",
+            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakurichi District 606201",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 91375,
@@ -10553,7 +10553,7 @@
         "IT": {
             "_id": "60f790dab43831bb8d246422",
             "coc": "1605",
-            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakkurichi District 606201",
+            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakurichi District 606201",
             "brc": "IT",
             "brn": "Information Technology",
             "OC": 108205,
@@ -10567,7 +10567,7 @@
         "EE": {
             "_id": "60f790dab43831bb8d246424",
             "coc": "1605",
-            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakkurichi District 606201",
+            "con": "Idhaya Engineering College for Women, Chinnasalem, Kallakurichi District 606201",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 82771,
@@ -18327,7 +18327,7 @@
         "ME": {
             "_id": "60f790dbb43831bb8d246643",
             "coc": "2705",
-            "con": "C S I College of Engineering, Ketti, The Nilgiris 643215",
+            "con": "C S I College of Engineering, Ketti, Nilgiris 643215",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 110928,
@@ -18341,7 +18341,7 @@
         "IT": {
             "_id": "60f790dbb43831bb8d246642",
             "coc": "2705",
-            "con": "C S I College of Engineering, Ketti, The Nilgiris 643215",
+            "con": "C S I College of Engineering, Ketti, Nilgiris 643215",
             "brc": "IT",
             "brn": "Information Technology",
             "OC": 107526,
@@ -18355,7 +18355,7 @@
         "EE": {
             "_id": "60f790dbb43831bb8d246649",
             "coc": "2705",
-            "con": "C S I College of Engineering, Ketti, The Nilgiris 643215",
+            "con": "C S I College of Engineering, Ketti, Nilgiris 643215",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 72117,
@@ -18369,7 +18369,7 @@
         "EC": {
             "_id": "60f790dbb43831bb8d246648",
             "coc": "2705",
-            "con": "C S I College of Engineering, Ketti, The Nilgiris 643215",
+            "con": "C S I College of Engineering, Ketti, Nilgiris 643215",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 110103,
@@ -18383,7 +18383,7 @@
         "CE": {
             "_id": "60f790dbb43831bb8d246641",
             "coc": "2705",
-            "con": "C S I College of Engineering, Ketti, The Nilgiris 643215",
+            "con": "C S I College of Engineering, Ketti, Nilgiris 643215",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 103643,
@@ -18397,7 +18397,7 @@
         "CS": {
             "_id": "60f790dbb43831bb8d24664a",
             "coc": "2705",
-            "con": "C S I College of Engineering, Ketti, The Nilgiris 643215",
+            "con": "C S I College of Engineering, Ketti, Nilgiris 643215",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 82430,
@@ -20829,7 +20829,7 @@
         "AG": {
             "_id": "60f790dbb43831bb8d2466f1",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "AG",
             "brn": "Agricultural Engineering",
             "OC": 70330,
@@ -20843,7 +20843,7 @@
         "BM": {
             "_id": "60f790dbb43831bb8d2466f2",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "BM",
             "brn": "Bio- Medical Engineering",
             "OC": 75646,
@@ -20857,7 +20857,7 @@
         "BT": {
             "_id": "60f790dbb43831bb8d2466f3",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "BT",
             "brn": "Bio Technology",
             "OC": 44777,
@@ -20871,7 +20871,7 @@
         "EE": {
             "_id": "60f790dbb43831bb8d2466f7",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 94019,
@@ -20885,7 +20885,7 @@
         "CE": {
             "_id": "60f790dbb43831bb8d2466f4",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 102280,
@@ -20899,7 +20899,7 @@
         "EC": {
             "_id": "60f790dbb43831bb8d2466f6",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 73685,
@@ -20913,7 +20913,7 @@
         "FD": {
             "_id": "60f790dbb43831bb8d2466f8",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "FD",
             "brn": "Food Technology",
             "OC": 63672,
@@ -20927,7 +20927,7 @@
         "IT": {
             "_id": "60f790dbb43831bb8d2466f9",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "IT",
             "brn": "Information Technology",
             "OC": 53769,
@@ -20941,7 +20941,7 @@
         "ME": {
             "_id": "60f790dbb43831bb8d2466fa",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 98901,
@@ -20955,7 +20955,7 @@
         "CS": {
             "_id": "60f790dbb43831bb8d2466f5",
             "coc": "2727",
-            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",
+            "con": "Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Coimbatore District 641062",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 38530,
@@ -21229,7 +21229,7 @@
         "CS": {
             "_id": "60f790dbb43831bb8d24670d",
             "coc": "2733",
-            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tirupur District 641 665",
+            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tiruppur District 641 665",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 95619,
@@ -21243,7 +21243,7 @@
         "EC": {
             "_id": "60f790dbb43831bb8d24670e",
             "coc": "2733",
-            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tirupur District 641 665",
+            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tiruppur District 641 665",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 107132,
@@ -21257,7 +21257,7 @@
         "EE": {
             "_id": "60f790dbb43831bb8d24670f",
             "coc": "2733",
-            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tirupur District 641 665",
+            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tiruppur District 641 665",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 101259,
@@ -21271,7 +21271,7 @@
         "ME": {
             "_id": "60f790dbb43831bb8d246711",
             "coc": "2733",
-            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tirupur District 641 665",
+            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tiruppur District 641 665",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 105772,
@@ -21285,7 +21285,7 @@
         "FT": {
             "_id": "60f790dbb43831bb8d246710",
             "coc": "2733",
-            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tirupur District 641 665",
+            "con": "Angel College of Engineering and Technology, P.K.Palayam, Ugayanur Village, Tiruppur District 641 665",
             "brc": "FT",
             "brn": "Fashion Technology",
             "OC": 105802,
@@ -24731,7 +24731,7 @@
         "CE": {
             "_id": "60f790dbb43831bb8d246801",
             "coc": "3461",
-            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagapattinam District 611103",
+            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagappattinam District 611103",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 110833,
@@ -24745,7 +24745,7 @@
         "CS": {
             "_id": "60f790dbb43831bb8d246802",
             "coc": "3461",
-            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagapattinam District 611103",
+            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagappattinam District 611103",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 105198,
@@ -24759,7 +24759,7 @@
         "EC": {
             "_id": "60f790dbb43831bb8d246803",
             "coc": "3461",
-            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagapattinam District 611103",
+            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagappattinam District 611103",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 109440,
@@ -24773,7 +24773,7 @@
         "EE": {
             "_id": "60f790dbb43831bb8d246804",
             "coc": "3461",
-            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagapattinam District 611103",
+            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagappattinam District 611103",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 108955,
@@ -24787,7 +24787,7 @@
         "ME": {
             "_id": "60f790dbb43831bb8d246805",
             "coc": "3461",
-            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagapattinam District 611103",
+            "con": "Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagappattinam District 611103",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 103383,
@@ -26035,7 +26035,7 @@
         "BM": {
             "_id": "60f790dbb43831bb8d24685c",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "BM",
             "brn": "Bio- Medical Engineering",
             "OC": 63198,
@@ -26049,7 +26049,7 @@
         "CB": {
             "_id": "60f790dbb43831bb8d24685d",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "CB",
             "brn": "Computer Science and Business System",
             "OC": 100091,
@@ -26063,7 +26063,7 @@
         "CS": {
             "_id": "60f790dbb43831bb8d24685f",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 78076,
@@ -26077,7 +26077,7 @@
         "CE": {
             "_id": "60f790dbb43831bb8d24685e",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 110662,
@@ -26091,7 +26091,7 @@
         "EC": {
             "_id": "60f790dbb43831bb8d246860",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 98326,
@@ -26105,7 +26105,7 @@
         "ME": {
             "_id": "60f790dbb43831bb8d246863",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 98405,
@@ -26119,7 +26119,7 @@
         "EE": {
             "_id": "60f790dbb43831bb8d246861",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 87249,
@@ -26133,7 +26133,7 @@
         "IT": {
             "_id": "60f790dbb43831bb8d246862",
             "coc": "3806",
-            "con": "E G S Pillay  Engineering College (Autonomous), Nagapattinam District 611002",
+            "con": "E G S Pillay  Engineering College (Autonomous), Nagappattinam District 611002",
             "brc": "IT",
             "brn": "Information Technology",
             "OC": 60744,
@@ -26149,7 +26149,7 @@
         "AE": {
             "_id": "60f790dbb43831bb8d246864",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "AE",
             "brn": "Aeronautical Engineering",
             "OC": 107995,
@@ -26163,7 +26163,7 @@
         "CS": {
             "_id": "60f790dbb43831bb8d246866",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 65399,
@@ -26177,7 +26177,7 @@
         "CE": {
             "_id": "60f790dbb43831bb8d246865",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 107067,
@@ -26191,7 +26191,7 @@
         "EC": {
             "_id": "60f790dbb43831bb8d246867",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 99606,
@@ -26205,7 +26205,7 @@
         "EE": {
             "_id": "60f790dbb43831bb8d246868",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 107747,
@@ -26219,7 +26219,7 @@
         "EI": {
             "_id": "60f790dbb43831bb8d246869",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "EI",
             "brn": "Electronics and Instrumentation Engineering",
             "OC": 86450,
@@ -26233,7 +26233,7 @@
         "ME": {
             "_id": "60f790dbb43831bb8d24686b",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 104954,
@@ -26247,7 +26247,7 @@
         "IT": {
             "_id": "60f790dbb43831bb8d24686a",
             "coc": "3807",
-            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Thiruchirappalli District 620009",
+            "con": "J J College of Engineering and Technology, Poolankulathupatti Post, Tiruchirappalli District 620009",
             "brc": "IT",
             "brn": "Information Technology",
             "OC": 102127,
@@ -28801,7 +28801,7 @@
         "CE": {
             "_id": "60f790dcb43831bb8d24691c",
             "coc": "3926",
-            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM PUDUKOTTAI - 622507",
+            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM, Pudukkottai - 622507",
             "brc": "CE",
             "brn": "Civil Engineering",
             "OC": 109905,
@@ -28815,7 +28815,7 @@
         "CS": {
             "_id": "60f790dcb43831bb8d24691d",
             "coc": "3926",
-            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM PUDUKOTTAI - 622507",
+            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM, Pudukkottai - 622507",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 101053,
@@ -28829,7 +28829,7 @@
         "EC": {
             "_id": "60f790dcb43831bb8d24691e",
             "coc": "3926",
-            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM PUDUKOTTAI - 622507",
+            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM, Pudukkottai - 622507",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 101216,
@@ -28843,7 +28843,7 @@
         "ME": {
             "_id": "60f790dcb43831bb8d246920",
             "coc": "3926",
-            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM PUDUKOTTAI - 622507",
+            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM, Pudukkottai - 622507",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 103265,
@@ -28857,7 +28857,7 @@
         "EE": {
             "_id": "60f790dcb43831bb8d24691f",
             "coc": "3926",
-            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM PUDUKOTTAI - 622507",
+            "con": "CHENDURAN COLLEGE OF ENGINEERING THIRUMAYAM, Pudukkottai - 622507",
             "brc": "EE",
             "brn": "Electrical and Electronics Engineering",
             "OC": 105536,
@@ -29877,7 +29877,7 @@
         "CS": {
             "_id": "60f790dcb43831bb8d246966",
             "coc": "4686",
-            "con": "GOOD SHEPHERD COLLEGE OF ENGINEERING AND TECHNOLOGY, MARUTHAMPARAI, KANYAKUMARI",
+            "con": "GOOD SHEPHERD COLLEGE OF ENGINEERING AND TECHNOLOGY, MARUTHAMPARAI, Kanyakumari District 629101",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 110715,
@@ -29891,7 +29891,7 @@
         "EC": {
             "_id": "60f790dcb43831bb8d24696b",
             "coc": "4686",
-            "con": "GOOD SHEPHERD COLLEGE OF ENGINEERING AND TECHNOLOGY, MARUTHAMPARAI, KANYAKUMARI",
+            "con": "GOOD SHEPHERD COLLEGE OF ENGINEERING AND TECHNOLOGY, MARUTHAMPARAI, Kanyakumari District 629101",
             "brc": "EC",
             "brn": "Electronics and Communication Engineering",
             "OC": 97150,
@@ -29905,7 +29905,7 @@
         "ME": {
             "_id": "60f790dcb43831bb8d24696c",
             "coc": "4686",
-            "con": "GOOD SHEPHERD COLLEGE OF ENGINEERING AND TECHNOLOGY, MARUTHAMPARAI, KANYAKUMARI",
+            "con": "GOOD SHEPHERD COLLEGE OF ENGINEERING AND TECHNOLOGY, MARUTHAMPARAI, Kanyakumari District 629101",
             "brc": "ME",
             "brn": "Mechanical Engineering",
             "OC": 96172,
@@ -31305,7 +31305,7 @@
         "CS": {
             "_id": "60f790dcb43831bb8d2469c9",
             "coc": "4956",
-            "con": "Jayamatha Engineering College, Aralvaimozhi, Kanyakumari District\n- 629301",
+            "con": "Jayamatha Engineering College, Aralvaimozhi, Kanyakumari District - 629301",
             "brc": "CS",
             "brn": "Computer Science and Engineering",
             "OC": 60934,
