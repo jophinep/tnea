@@ -3,11 +3,11 @@ import json
 
 ranks = json.load(open("new_ranks.json"))
 courses = json.load(open("new_courses.json"))
-my_rank = 68000
+my_rank = 109600
 
 options = []
 headers = ["College Code", "College Name", "District", "Branch Code", "Branch Name", "OC", "MBC"]
-with open("colleges.csv", "w", newline="") as csvfile:
+with open("colleges2.csv", "w", newline="") as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=headers)
     writer.writeheader()
     for rank in ranks:
