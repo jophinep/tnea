@@ -11,5 +11,10 @@
     "RM": "Robotics and Automation",
     "SB": "Computer Science and Engineering (Internet of Things and Cyber Security including Block Chain Technology)",
     "TS": "Computer science and Technology",
-    "EC": "Electronics and Communication Engineering"
+    "CI": "Computer Science and Engineering (Internet of Things)",
+    "CF": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+    "SC": "Computer Science and Engineering (Cyber Security)",
+    "CD": "COMPUTER SCIENCE AND DESIGN",
+    "EC": "Electronics and Communication Engineering",
+    "EE": "Electrical and Electronics Engineering"
 }

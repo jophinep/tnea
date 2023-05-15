@@ -1,28 +1,32 @@
 import csv
 import json
 
-ranks = json.load(open("new_ranks.json"))
+cutoff = json.load(open("new_cutoff.json"))
+ranks = json.load(open("ranks.json"))
+rank_index = {f'{r["coc"]}{r["brc"]}': r for r in ranks}
 courses = json.load(open("new_courses.json"))
-my_rank = 109600
+my_cutoff = 0
 
 options = []
-headers = ["College Code", "College Name", "District", "Branch Code", "Branch Name", "OC", "MBC"]
-with open("colleges2.csv", "w", newline="") as csvfile:
+headers = ["College Code", "College Name", "District", "Branch Code", "Branch Name", "Cutoff OC", "Cutoff MBC", "Rank OC", "Rank MBC"]
+with open("colleges.csv", "w", newline="") as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=headers)
     writer.writeheader()
-    for rank in ranks:
-        brc = rank['brc']
-        oc = rank['OC']
-        mbc = rank['MBC']
-        if brc in courses.keys() and ((oc and oc > my_rank) or (mbc and mbc > my_rank)):
+    for c in cutoff:
+        brc = c['brc']
+        oc = c['OC']
+        mbc = c['MBC']
+        if brc in courses.keys() and ((oc and oc > my_cutoff) or (mbc and mbc > my_cutoff)):
             option = {
-                "College Code": rank["coc"],
-                "College Name": rank["con"],
-                "District": rank["District"],
-                "Branch Code": rank["brc"],
-                "Branch Name": rank["brn"],
-                "OC": rank["OC"],
-                "MBC": rank["MBC"],
+                "College Code": c["coc"],
+                "College Name": c["con"],
+                "District": c["District"],
+                "Branch Code": c["brc"],
+                "Branch Name": c["brn"],
+                "Cutoff OC": c["OC"],
+                "Cutoff MBC": c["MBC"],
+                "Rank OC": rank_index[f'{c["coc"]}{c["brc"]}']["OC"],
+                "Rank MBC": rank_index[f'{c["coc"]}{c["brc"]}']["MBC"]
             }
             options.append(option)
             writer.writerow(option)
